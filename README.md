@@ -4,8 +4,8 @@ Use: perl ps_gen.pl
 
 OPTIONS:
 
---len num where num is the length desired
+--len num | where num is the length desired
 
---count num where num is the number of passwords to generate
+--count num | where num is the number of passwords to generate
 
---help to see this options on the terminal
+--help | to see this options on the terminal
